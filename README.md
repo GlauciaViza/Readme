@@ -21,10 +21,7 @@ Atualmente, desenvolvo pequenos projetos em Python e Java para praticar lógica 
 
 ---
 
-### 📚 Projetos em Destaque
-- 🐍 [Calculadora de IMC em Python](https://github.com/glauciaviza/calculadora-imc)
-- 📓 [Agenda de Contatos (CLI)](https://github.com/glauciaviza/agenda-contatos)
-- ☕ [Sistema de Cadastro de Alunos em Java](https://github.com/glauciaviza/cadastro-alunos)
+
 
 ---
 
